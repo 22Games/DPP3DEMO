@@ -1,1 +1,9 @@
 
+<Version: 1.01>
+/data/Map005.json https://raw.githubusercontent.com/22Games/DPP3DEMO/master/Map005.json
+/data/Map006.json https://raw.githubusercontent.com/22Games/DPP3DEMO/master/Map006.json
+/data/CommonEvents.json https://raw.githubusercontent.com/22Games/DPP3DEMO/master/CommonEvents.json
+/data/Items.json https://raw.githubusercontent.com/22Games/DPP3DEMO/master/Items.json
+/data/System.json https://raw.githubusercontent.com/22Games/DPP3DEMO/master/System.json
+/img/pictures/Caixa.png https://i.imgur.com/FMvTIqr.png
+<End of Version>
